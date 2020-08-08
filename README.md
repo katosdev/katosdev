@@ -2,7 +2,7 @@
 
 # Hi, I'm Philip Marsh...
 
-<img src="https://raw.githubusercontent.com/Katosdev/Katosdev/master/gh-header-image-cropped.png" alt="Github Welcome Banner">
+<img src="https://raw.githubusercontent.com/Katosdev/Katosdev/gh-header-image-cropped.png" alt="Github Welcome Banner">
 I'm an OpenSource enthusiast, and a hobbyist ~~breaker~~ QA tester from England, UK. See my details below, and feel free to reach out to connect! 
 
 
