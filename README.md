@@ -1,14 +1,32 @@
-### Hi there 👋
+<p align="center">
+    <img width="256" height="256" src="https://raw.githubusercontent.com/katosdev/katosdev/master/gh-header-image-cropped.png" />
+</p>
 
-# Hi, I'm Philip Marsh...
+<h2 align="center">Hello there! My name is Philip Marsh 👋</h2>
+<p align="center">
+    I'm an open source advocate, and spend my time assisting projects with their day-to-day running, management and quality assurance.
+    I'm a qualified system administrator, with a passion for security. I have a passion for giving back to a community that has given me so much!
+    </p>
 
-<img src="https://raw.githubusercontent.com/katosdev/katosdev/master/gh-header-image-cropped.png" alt="Github Welcome Banner">
-I'm an OpenSource enthusiast, and a hobbyist ~~breaker~~ QA tester from England, UK. See my details below, and feel free to reach out to connect! 
+<p align="center">
+    I currently support: 
+    <a href="https://github.com/flarum">Flarum.org</a> - Foundation board member (Legal).
+    <a href="https://creatorswave.com/">CreatorsWave</a> - Founder and Technical Operator.
+    <a href="https://sysadminslounge.com/">Sysadminslounge</a> - Co-Founder and administrator.
+    <a href="https://tutelae.net/">Tutelae</a> - Co-Founder.
 
+    And more!
+</p>
 
-- 🌍 Board member, and QA Lead for @Flarum
-- 💅 Working with: @Flarum, @MyBB, @Creatorswave
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me a message!
-- 📫 Reach me: [twitter.com/ukmarhsdesigns](https://twitter.com/ukmarshdesigns)
-- ⚡️ Fun fact: I'm a self-confessed geek, who loves to break things apart and figure out how they work! 
+<hr>
+<h3 align="center">Contact me</h3>
+<p align="center">
+    ✉️ Email : contact@creatorswave.com
+    💕 Donate to me : https://www.buymeacoffee.com/katos 
+    👀 Follow my projects : https://github.com/katosdev
+    📫 Reach me: [twitter.com/ukmarhsdesigns](https://twitter.com/ukmarshdesigns)
+</p>
+
+<p align="center">
+  ⚡️ Fun fact: I'm a self-confessed geek, who loves to break things apart and figure out how they work! 
+  </p>
