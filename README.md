@@ -22,10 +22,12 @@
 <hr>
 <h3 align="center">Contact me</h3>
 <p align="center">
-    ✉️ Email : contact@creatorswave.com
-    💕 Donate to me : https://www.buymeacoffee.com/katos 
-    👀 Follow my projects : https://github.com/katosdev
-    📫 Reach me: [twitter.com/ukmarhsdesigns](https://twitter.com/ukmarshdesigns)
+    <ul>
+    <li>✉️ Email : contact@creatorswave.com</li>
+    <li>💕 Donate to me : https://www.buymeacoffee.com/katos</li>
+    <li>👀 Follow my projects : https://github.com/katosdev</li>
+    <li>📫 Reach me: [twitter.com/ukmarhsdesigns](https://twitter.com/ukmarshdesigns)</li>
+    </ul>
 </p>
 
 <p align="center">
