@@ -10,11 +10,12 @@
 
 <p align="center">
     I currently support: 
-    <a href="https://github.com/flarum">Flarum.org</a> - Foundation board member (Legal).
-    <a href="https://creatorswave.com/">CreatorsWave</a> - Founder and Technical Operator.
-    <a href="https://sysadminslounge.com/">Sysadminslounge</a> - Co-Founder and administrator.
-    <a href="https://tutelae.net/">Tutelae</a> - Co-Founder.
-
+    <ul>
+        <li><a href="https://github.com/flarum">Flarum.org</a> - Foundation board member (Legal).</li>
+        <li><a href="https://creatorswave.com/">CreatorsWave</a> - Founder and Technical Operator.</li>
+        <li><a href="https://sysadminslounge.com/">Sysadminslounge</a> - Co-Founder and administrator.</li>
+        <li><a href="https://tutelae.net/">Tutelae</a> - Co-Founder.</li>
+</ul>
     And more!
 </p>
 
