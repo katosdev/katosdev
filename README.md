@@ -1,4 +1,6 @@
-<img width="256" height="256" src="https://raw.githubusercontent.com/katosdev/katosdev/master/gh-header-image-cropped.png" />
+<img src="https://raw.githubusercontent.com/katosdev/katosdev/master/gh-header-image-cropped.png" />
+
+<hr>
 
 <h2 align="center">Hello there! My name is Philip Marsh 👋</h2>
 <p align="center">
