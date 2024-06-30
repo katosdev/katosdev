@@ -1,9 +1,7 @@
-<img src="https://raw.githubusercontent.com/katosdev/katosdev/master/gh-header-image-cropped.png" />
-
 <hr>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Philip Marsh
+My name is Katos
 ====================================================================================================================================
 
 Cyber Security and Open Source Advocate
@@ -11,9 +9,7 @@ Cyber Security and Open Source Advocate
 
 From my early days, I held an innate fascination with technology and a keen interest in understanding the intricate workings of digital systems. This curiosity laid the foundation for my journey into the dynamic realm of digital forensics and cybersecurity. My professional journey took a remarkable turn when I undertook the challenge of establishing a Cyber Security Security Operations Center (SOC) from the ground up within an established law firm.
 
-* 🌍  I'm based in Manchester, England
-* 🖥️  See my portfolio at [My Portfolio](http://security.marshlab.net)
-* ✉️  You can contact me at [phil@marshlab.net](mailto:phil@marshlab.net)
+* 🌍  I'm based in England
 * 🚀  I'm currently working on [Flarum](http://flarum.org)
 * 🧠  I'm learning : How to leverage Python APIs for threat intelligence enrichment
 * 🤝  I'm open to collaborating on Cyber Security Projects
